@@ -1,0 +1,31 @@
+
+/* Sets the font to match the book style in the image */
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin: 20px; /* Adds a little space around the page edges */
+}
+
+/* Optional: Ensures the image has space below it */
+img {
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Style for the underlined sentences */
+.underline {
+    text-decoration: underline;
+}
+
+/* Style for the orange highlighted sentence */
+.highlight {
+    background-color: orange;
+}
+
+/* Style for the red and bold quotes */
+.red-bold {
+    color: red;
+    font-weight: bold;
+}
+
